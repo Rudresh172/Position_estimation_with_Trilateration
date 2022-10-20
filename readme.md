@@ -4,4 +4,4 @@ trilaterion/math.py accepts a .txt file with a list of radii of measurements fro
 
 A sample example with readings from 3 time of flight sensors over 6 locations is provided in this repository. result_1.txt contains the readings from the sensor which is then processed in math.py and the output visualization images and gif is saved in the visualization folder.
 
-![Alt text] (https://github.com/Rudresh172/Position_estimation_with_Trilateration/blob/main/visualization/imgs.gif)
+![Alt text](https://github.com/Rudresh172/Position_estimation_with_Trilateration/blob/main/visualization/imgs.gif)
